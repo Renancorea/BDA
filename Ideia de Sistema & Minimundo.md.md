@@ -7,8 +7,7 @@
 
 # Tabelas
 - Passageiros
-- PassageiroRota FK(P,R)
-- rotas FK(M)
+- Viagem FK(P,R)
+- rotas FK(M,V)
 - motoristas
-- veiculoMotorista FK(V,M)
 - veiculos
